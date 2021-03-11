@@ -6,7 +6,7 @@ __WP Plugins header template | pluginName.php__
 <?php 
 /**
  *
- * @package           Extend WordPress functionality
+ * @package           Extend WordPress functionality Ready to go!
  * @author            nielFernandez
  * @copyright         2021 nielsoffice
  * @license           GPL-3.0-or-later
@@ -60,10 +60,12 @@ function nielsoffice_plugins_settings()
 function nielsoffice_plugins_settings_sublevel_menu() 
 {
 	
-  /** Default WP function add submenu page 
-   *  ( Source: https://developer.wordpress.org/reference/functions/add_submenu_page/ )
+  /** 
+   * Default WP function add submenu page 
+   * ( Source: https://developer.wordpress.org/reference/functions/add_submenu_page/ )
    * 
    * add_submenu_page(string  $parent_slug, string $page_title, string $menu_title, string $capability, string $menu_slug, callable $function = '');
+   * 
    **/
   
   // Actual Submenu wp implementation 

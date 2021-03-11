@@ -85,7 +85,7 @@ add_action( 'admin_menu', 'nielsoffice_plugins_settings_sublevel_menu' );
 
 ```
 
-__Adding content admin parent page menu__ <br />
+Adding content admin parent page menu <br />
 ```PHP
 
 // Add menu plugin parent page

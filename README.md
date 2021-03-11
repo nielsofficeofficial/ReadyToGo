@@ -1,4 +1,4 @@
-# WP-PluginGuide references
+# WP-Plugin Ready to go
 WordPress Plugin Guide to extend WP Functionality without being interfering the core 
 
 __WP Plugins header template | pluginName.php__
@@ -60,21 +60,21 @@ function nielsoffice_plugins_settings()
 function nielsoffice_plugins_settings_sublevel_menu() 
 {
 	
-	/** Default WP function add submenu page 
+  /** Default WP function add submenu page 
    *  ( Source: https://developer.wordpress.org/reference/functions/add_submenu_page/ )
    * 
-	 * add_submenu_page(string  $parent_slug, string $page_title, string $menu_title, string $capability, string $menu_slug, callable $function = '');
-	**/
+   * add_submenu_page(string  $parent_slug, string $page_title, string $menu_title, string $capability, string $menu_slug, callable $function = '');
+   **/
   
   // Actual Submenu wp implementation 
-	add_submenu_page(
-		'options-general.php',
-		'WordPress Extend Plugin Page Title',
-		'WordPress Extend Plugin Menu Title',
-		'manage_options', // given manage_options
-		'wp-menu-plugin-slug',
-		'nielsoffice_plugins_settings' // callable callback function
-	);
+  add_submenu_page(
+    'options-general.php',
+    'WordPress Extend Plugin Page Title',
+    'WordPress Extend Plugin Menu Title',
+    'manage_options', // given manage_options
+    'wp-menu-plugin-slug',
+    'nielsoffice_plugins_settings' // callable callback function
+  );
 	
 }
 

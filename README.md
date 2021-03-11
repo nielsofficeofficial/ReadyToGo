@@ -53,7 +53,7 @@ function nielsoffice_plugins_settings()
   // Validate user allowed access
   if ( !current_user_can( 'manage_options' ) ) return;
 
-   require_once __DIR__ . '/file-one.php';
+   require_once __DIR__ . '/file-contents.php';
 }
 
 // add sub-level administrative menu

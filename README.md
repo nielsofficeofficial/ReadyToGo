@@ -17,7 +17,7 @@ __WP Plugins header template | pluginName.php__
  * Version:           v1.0
  * Requires at least: v5.2
  * Requires PHP:      v7++
- * Author:            Your Name
+ * Author:            nielFernandez
  * Author URI:        https://www.facebook.com/nielsofficeofficial
  * Text Domain:       nielsoffice
  * License:           GPL v3 or later

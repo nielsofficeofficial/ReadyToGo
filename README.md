@@ -20,7 +20,7 @@ License URI:  https://www.gnu.org/licenses/gpl-2.0.txt
 
 ```
 
-__Parent Slug for add_submenu_page__
+__Parent Slug for add_submenu_page__ <br />
 Single plugin file functionality that integrate with the existing wordpress core such dashboard, themes, users, settings etc...
 ```
 Dashboard menu => index.php 

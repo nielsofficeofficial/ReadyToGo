@@ -47,7 +47,7 @@ Adding file content admin submenu page
 
 ```PHP
 
-// display the plugin settings page
+// Add menu plugin settings page
 function nielsoffice_plugins_settings() 
 {
   // Validate user allowed access
@@ -80,7 +80,46 @@ function nielsoffice_plugins_settings_sublevel_menu()
 	
 }
 
-// Add function 
+// Add function Action 
 add_action( 'admin_menu', 'nielsoffice_plugins_settings_sublevel_menu' );
+
+```
+
+__Admin Page Menu__ <br />
+```PHP
+
+// Add menu plugin parent page
+function nielsoffice_plugins_parent() 
+{
+  // Validate user allowed access
+  if ( !current_user_can( 'manage_options' ) ) return;
+
+   require_once __DIR__ . '/file-contents.php';
+}
+
+// Add Parent admin menu
+function nielsoffice_add_parent_menu() 
+{
+  /** 
+   * Default WP function add top parent menu page 
+   * ( Source: https://developer.wordpress.org/reference/functions/add_submenu_page/ )
+   * 
+   * add_menu_page(string $page_title, string $menu_title, string $capability, string $menu_slug, callable $function = '', string $icon_url = '', int $position = null )
+   * 
+   **/
+  
+  // Actual parent menu wp implementation
+  add_menu_page(
+    'Plugin Parent Page Title',
+    'Plugin Parent Menu Title',
+    'manage_options', // given manage_option
+    'myplugin-parent-menu',
+    'nielsoffice_plugins_parent', // callable callback function
+    'dashicons-admin-generic',
+    null
+ );
+	
+}
+add_action( 'admin_menu', 'nielsoffice_add_parent_menu' );
 
 ```

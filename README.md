@@ -50,8 +50,8 @@ Adding file content admin submenu page
 // display the plugin settings page
 function nielsoffice_plugins_settings() 
 {
-	// Validate user allowed access
-	if ( !current_user_can( 'manage_options' ) ) return;
+  // Validate user allowed access
+  if ( !current_user_can( 'manage_options' ) ) return;
 
    require_once __DIR__ . '/file-one.php';
 }

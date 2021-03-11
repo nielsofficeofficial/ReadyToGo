@@ -102,7 +102,7 @@ function nielsoffice_add_parent_menu()
 {
   /** 
    * Default WP function add top parent menu page 
-   * ( Source: https://developer.wordpress.org/reference/functions/add_submenu_page/ )
+   * ( Source: https://developer.wordpress.org/reference/functions/add_menu_page/ )
    * 
    * add_menu_page(string $page_title, string $menu_title, string $capability, string $menu_slug, callable $function = '', string $icon_url = '', int $position = null )
    * 

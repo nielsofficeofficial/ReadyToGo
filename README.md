@@ -70,12 +70,12 @@ function nielsoffice_plugins_settings_sublevel_menu()
   
   // Actual Submenu wp implementation 
   add_submenu_page(
-    'options-general.php',
-    'WordPress Extend Plugin Page Title',
-    'WordPress Extend Plugin Menu Title',
-    'manage_options', // given manage_options
-    'wp-menu-plugin-slug',
-    'nielsoffice_plugins_settings' // callable callback function
+    'options-general.php'
+   ,'WordPress Extend Plugin Page Title'
+   ,'WordPress Extend Plugin Menu Title'
+   ,'manage_options' // given manage_options
+   ,'wp-menu-plugin-slug'
+   ,'nielsoffice_plugins_settings' // callable callback function
   );
 	
 }
@@ -110,13 +110,13 @@ function nielsoffice_add_parent_menu()
   
   // Actual parent menu wp implementation
   add_menu_page(
-    'Plugin Parent Page Title',
-    'Plugin Parent Menu Title',
-    'manage_options', // given manage_option
-    'myplugin-parent-menu',
-    'nielsoffice_plugins_parent', // callable callback function
-    'dashicons-admin-generic',
-    null
+     'Plugin Parent Page Title'
+    ,'Plugin Parent Menu Title'
+    ,'manage_options' // given manage_option
+    ,'myplugin-parent-menu'
+    ,'nielsoffice_plugins_parent' // callable callback function
+    ,'dashicons-admin-generic'
+    ,null
  );
 	
 }

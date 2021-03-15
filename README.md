@@ -53,7 +53,7 @@ function nielsoffice_plugins_settings()
   // Validate user allowed access
   if ( !current_user_can( 'manage_options' ) ) return;
 
-   require_once __DIR__ . '/file-contents.php';
+   require_once plugin_dir_path( __FILE__ ) . '/file-contents.php';
 }
 
 // add sub-level administrative menu
@@ -94,7 +94,7 @@ function nielsoffice_plugins_parent()
   // Validate user allowed access
   if ( !current_user_can( 'manage_options' ) ) return;
 
-   require_once __DIR__ . '/file-contents.php';
+   require_once plugin_dir_path( __FILE__ ) . '/file-contents.php';
 }
 
 // Add Parent admin menu

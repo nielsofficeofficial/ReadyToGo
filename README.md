@@ -123,3 +123,15 @@ function nielsoffice_add_parent_menu()
 add_action( 'admin_menu', 'nielsoffice_add_parent_menu' );
 
 ```
+// Adding custom page
+```PHP
+  // Dem static page will call
+  $testpage1 = "test";
+  
+  PERFORM( ELEM('a','Link' ,setEA(['href'],["index.php?page=". $testpage1 .""])) );
+  
+  if ( !current_user_can( 'manage_options' ) ) return;
+   
+  ( isset($_REQUEST['page']) == true ) ? require 'test1.php' : fales;
+
+```

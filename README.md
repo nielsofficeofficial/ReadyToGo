@@ -2,10 +2,16 @@
 WordPress Plugin Guide to extend WP Functionality without being interfering the core <br />
 Generate Plugins Boilerplate with wppb.me modified by <i>nielsoffice</i> 
 
-<h6>WP Developer plugin tools</h6>
-- <a href="https://wordpress.org/plugins/wp-developer-tools/"> WP DEVELOPER TOOLS </a> <br/>
-- <a href="https://wordpress.org/plugins/developer/"> WP DEVELOPER </a> <br />
-- <a href="https://wordpress.org/plugins/query-monitor/"> WP QUERY MONITOR </a>
+<h6>WP Developer plugin tools references</h6>
+- <a href="https://wordpress.org/plugins/wp-developer-tools/"> WP Developer tools </a> <br/>
+- <a href="https://wordpress.org/plugins/developer/"> WP Developer </a> <br />
+- <a href="https://wordpress.org/plugins/query-monitor/"> WP Query monitor </a><br/>
+
+<h6>WP Developer WP Loop references </h6>
+- <a href="https://digwp.com/2011/05/loops/"> WP 4 Ways to loop </a><br/>
+- <a href="https://codex.wordpress.org/The_loop"> WP The Loop </a><br/>
+- <a href="https://codex.wordpress.org/Special:Search/The_loop_In_Action"> WP The Loop In Action </a><br/>
+
 
 __WP Plugins header template | pluginName.php__
 ```PHP

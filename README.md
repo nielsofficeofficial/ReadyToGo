@@ -143,7 +143,7 @@ add_action( 'admin_menu', 'nielsoffice_add_parent_menu' );
 <h5>
 Github : To allow me to upload my PHP-samepage-crud to repository<br /> 
 php.net : To oppurtunity Develop web application using corePHP - PHPFrameworks<br />
-wppb.me : <i>Plugin Auto Generate with <a href="https://wppb.me/">WORDPRESS PLUGIN BOILERPLATE GENERATOR</a></i><br />	
+wppb.me : Plugin Auto Generate with <i>WORDPRESS PLUGIN BOILERPLATE GENERATOR</i><br />	
 </h5>
 
 __Please kindly read license and agreement under of wppb.me GNU v2.0__

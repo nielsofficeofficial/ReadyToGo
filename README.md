@@ -7,10 +7,13 @@ Generate Plugins Boilerplate with wppb.me modified by <i>nielsoffice</i>
 → <a href="https://wordpress.org/plugins/developer/"> WP Developer </a> <br />
 → <a href="https://wordpress.org/plugins/query-monitor/"> WP Query monitor </a><br/>
 
-<h6>WP Developer WP Loop references </h6>
+<h6>WP Developer Loop references </h6>
 → <a href="https://digwp.com/2011/05/loops/"> WP 4 Ways to loop </a><br/>
 → <a href="https://codex.wordpress.org/The_loop"> WP The Loop </a><br/>
 → <a href="https://codex.wordpress.org/Special:Search/The_loop_In_Action"> WP The Loop In Action </a><br/>
+
+<h6>WP Developer query parameter references </h6>
+→ <a href="https://developer.wordpress.org/reference/classes/wp_query/"> WP Query Parameter/loop </a><br/>
 
 
 __WP Plugins header template | pluginName.php__

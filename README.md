@@ -3,9 +3,9 @@ WordPress Plugin Guide to extend WP Functionality without being interfering the 
 Generate Plugins Boilerplate with wppb.me modified by <i>nielsoffice</i> 
 
 <h6>WP Developer plugin tools</h6>
-- https://wordpress.org/plugins/wp-developer-tools/ <br/>
-- https://wordpress.org/plugins/developer/  <br />
-- https://wordpress.org/plugins/query-monitor/
+- <a href="https://wordpress.org/plugins/wp-developer-tools/"> WP DEVELOPER TOOLS </a> <br/>
+- <a href="https://wordpress.org/plugins/developer/"> WP DEVELOPER </a> <br />
+- <a href="https://wordpress.org/plugins/query-monitor/"> WP QUERY MONITOR </a>
 
 __WP Plugins header template | pluginName.php__
 ```PHP

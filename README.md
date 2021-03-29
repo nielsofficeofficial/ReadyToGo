@@ -1,6 +1,7 @@
 # WP-Plugin Ready to go
-WordPress Plugin Guide to extend WP Functionality without being interfering the core 
-<br /><i>Plugin Auto Generate with <a href="https://wppb.me/">WORDPRESS PLUGIN BOILERPLATE GENERATOR</a></i>
+WordPress Plugin Guide to extend WP Functionality without being interfering the core <br />
+Generate Plugins Boiler plate with wppb.me modified by <i>nielsoffice</> 
+
 
 
 __WP Plugins header template | pluginName.php__
@@ -137,3 +138,13 @@ add_action( 'admin_menu', 'nielsoffice_add_parent_menu' );
   ( isset($_REQUEST['page']) == true ) ? require 'test1.php' : fales;
 
 ```
+
+<h2>Thanks To:</h2>
+<h5>
+Github : To allow me to upload my PHP-samepage-crud to repository<br /> 
+php.net : To oppurtunity Develop web application using corePHP - PHPFrameworks<br />
+wppb.me : <i>Plugin Auto Generate with <a href="https://wppb.me/">WORDPRESS PLUGIN BOILERPLATE GENERATOR</a></i><br />	
+</h5>
+
+__Please kindly read license and agreement under of wppb.me GNU v2.0__
+<br /> Thanks and good luck! 

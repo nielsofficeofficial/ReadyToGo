@@ -144,8 +144,8 @@ add_action( 'admin_menu', 'nielsoffice_add_parent_menu' );
 Github : To allow me to upload my PHP-samepage-crud to repository<br /> 
 php.net : To oppurtunity Develop web application using corePHP - PHPFrameworks<br />
 wppb.me : Plugin Auto Generate with <i>WORDPRESS PLUGIN BOILERPLATE GENERATOR</i><br />	
-WP Codex : Write a plugin and access reference online license under of GNU License 
-WP Development : Developer resouces freedom to build API license under of GNU License 	
+WP Codex : Write a plugin and access reference online license under of GNU License <br />
+WP Development : Developer resouces freedom to build API license under of GNU License <br />	
 </h5>
 
 __Please kindly read license and agreement under of wppb.me GNU v2.0__

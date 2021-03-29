@@ -15,14 +15,14 @@ Generate Plugins Boilerplate with wppb.me modified by <i>nielsoffice</i>
 <h6>WP Developer query parameter references </h6>
 → <a href="https://developer.wordpress.org/reference/classes/wp_query/"> WP Query Parameter/loop </a><br/>
 
-<h6>WP Generators </h6>
+<h6>WP Resources </h6>
 → <a href="https://www.wp-hasty.com/"> Hasty </a><br/>
 → <a href="https://generatewp.com/"> WP Gen </a><br/>
 → <a href="https://underscores.me/"> WP Underscore </a><br/>
 → <a href="https://www.wpthemegenerator.com/generator"> WP Theme template </a><br/>
 → <a href="http://projects.tareq.co/wp-generator/"> WP CRUD </a><br/>
 
-
+<br/>
 
 __WP Plugins header template | pluginName.php__
 ```PHP

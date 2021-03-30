@@ -161,7 +161,7 @@ add_action( 'admin_menu', 'nielsoffice_add_parent_menu' );
 
 <h2>Thanks To:</h2>
 <h5>
-Github : To allow me to upload my PHP-samepage-crud to repository<br /> 
+Github : To allow me to upload my WP Plugins ready to go to repository<br /> 
 php.net : To oppurtunity Develop web application using corePHP - PHPFrameworks<br />
 wppb.me : Plugin Auto Generate with <i>WORDPRESS PLUGIN BOILERPLATE GENERATOR</i><br />	
 WP Codex : Write a plugin and access reference online under of GNU License <br />

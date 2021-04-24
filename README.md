@@ -1,4 +1,4 @@
-# WP-Plugin Ready to go
+# WP Ready to go
 WordPress Plugin Guide to extend WP Functionality without being interfering the core <br />
 Generate Plugins Boilerplate with wppb.me modified by <i>nielsoffice</i> 
 

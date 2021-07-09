@@ -22,6 +22,12 @@ Generate Plugins Boilerplate with wppb.me modified by <i>nielsoffice</i>
 → <a href="https://www.wpthemegenerator.com/generator"> WP Theme template </a><br/>
 → <a href="http://projects.tareq.co/wp-generator/"> WP CRUD </a><br/>
 
+<h6>WordPress User Category Resttriction references </h6>
+→ Restict user select other category <a href="https://wordpress.org/plugins/restrict-categories/"> Restricted Select Category </a><br/>
+→ Set default category user post by role <a href="https://wordpress.org/plugins/restricted-authors/"> Restricted Authors </a><br/>
+→ Customize user role <a href="https://wordpress.org/plugins/members/"> User Permission </a><br/>
+→ Hide back end menu by user role <a href="https://wordpress.org/plugins/admin-menu-editor/"> Admin Menu Editor </a><br/>
+
 <br/>
 
 __WP Plugins header template | pluginName.php__

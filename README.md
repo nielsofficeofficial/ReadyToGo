@@ -23,7 +23,7 @@ Generate Plugins Boilerplate with wppb.me modified by <i>nielsoffice</i>
 → <a href="http://projects.tareq.co/wp-generator/"> WP CRUD </a><br/>
 
 <h6>WordPress Development | user and role permission</h6>
-→ Restrict user select other category <a href="https://wordpress.org/plugins/restrict-categories/"> Restricted Select Category </a><br/>
+→ Restrict user select other category <a href="https://wordpress.org/plugins/restrict-categories/"> | <a href="https://wordpress.org/plugins/press-permit-core/Restricted"> Select Category </a><br/>
 → Block category user post by role <a href="https://publishpress.com/knowledge-base/how-to-restrict-wordpress-users-to-posting-in-one-category/"> Block Category Authors </a><br/>
 → Set default category user post by role <a href="https://wordpress.org/plugins/restricted-authors/"> Restricted Authors </a><br/>
 → Customize user role <a href="https://wordpress.org/plugins/members/"> User Permission </a><br/>

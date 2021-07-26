@@ -29,7 +29,7 @@ Generate Plugins Boilerplate with wppb.me modified by <i>nielsoffice</i>
 → Set default category user post by role <a href="https://wordpress.org/plugins/restricted-authors/"> Restricted Authors </a><br/>
 → Customize user role <a href="https://wordpress.org/plugins/members/"> User Permission </a><br/>
 → Hide back end menu by user role <a href="https://wordpress.org/plugins/admin-menu-editor/"> Admin Menu Editor </a><br/>
-
+→ Hide menu by user role and active session or even false <a href="https://wordpress.org/plugins/if-menu/"> If Menu/UserRole/SessionIs ? </a><br />
 <br/>
 
 __WP Plugins header template | pluginName.php__

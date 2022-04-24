@@ -19,6 +19,7 @@ Generate Plugins Boilerplate with wppb.me modified by <i>nielsoffice</i>
 → <a href="https://www.wp-hasty.com/"> Hasty </a><br/>
 → <a href="https://generatewp.com/"> WP Gen </a><br/>
 → <a href="https://underscores.me/"> WP Underscore </a><br/>
+→ <a href="https://wppb.me/"> WP Extension starter </a><br/>
 → <a href="https://www.wpthemegenerator.com/generator"> WP Theme template </a><br/>
 → <a href="http://projects.tareq.co/wp-generator/"> WP CRUD </a><br/>
 
@@ -28,8 +29,11 @@ Generate Plugins Boilerplate with wppb.me modified by <i>nielsoffice</i>
 → Block category user post by role <a href="https://wordpress.org/plugins/press-permit-core/Restricted"> WP Block Category Authors </a> <br/>
 → Set default category user post by role <a href="https://wordpress.org/plugins/restricted-authors/"> Restricted Authors </a><br/>
 → Customize user role <a href="https://wordpress.org/plugins/members/"> User Permission </a><br/>
+→ Control Display Media Library by Author or user role <a href="https://wordpress.org/plugins/wp-users-media/"> WP User Media </a><br />
+→ Member can access or user role and permission <a href="https://wordpress.org/plugins/members/"> Member </a><br />
 → Hide back end menu by user role <a href="https://wordpress.org/plugins/admin-menu-editor/"> Admin Menu Editor </a><br/>
 → Hide menu by user role and active session or even false <a href="https://wordpress.org/plugins/user-menus/"> Show Menu for ? </a><br />
+
 <br/>
 
 __WP Plugins header template | pluginName.php__

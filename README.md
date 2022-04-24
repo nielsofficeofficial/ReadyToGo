@@ -31,6 +31,7 @@ Generate Plugins Boilerplate with wppb.me modified by <i>nielsoffice</i>
 → Customize user role <a href="https://wordpress.org/plugins/members/"> User Permission </a><br/>
 → Control Display Media Library by Author or user role <a href="https://wordpress.org/plugins/wp-users-media/"> WP User Media </a><br />
 → Member can access or user role and permission <a href="https://wordpress.org/plugins/members/"> Member </a><br />
+→ Remove/Disable unwated metabox admin/CPT <a href="https://wordpress.org/plugins/adminimize/"> Adminimize </a><br />
 → Hide back end menu by user role <a href="https://wordpress.org/plugins/admin-menu-editor/"> Admin Menu Editor </a><br/>
 → Hide menu by user role and active session or even false <a href="https://wordpress.org/plugins/user-menus/"> Show Menu for ? </a><br />
 

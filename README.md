@@ -6,6 +6,7 @@ Generate Plugins Boilerplate with wppb.me modified by <i>nielsoffice</i>
 → <a href="https://wordpress.org/plugins/wp-developer-tools/"> WP Developer tools </a> <br/>
 → <a href="https://wordpress.org/plugins/developer/"> WP Developer </a> <br />
 → <a href="https://wordpress.org/plugins/query-monitor/"> WP Query monitor </a><br/>
+→ <a href="https://wordpress.org/plugins/user-switching/"> User Switch </a><br/>
 
 <h6>WP Developer Loop references </h6>
 → <a href="https://digwp.com/2011/05/loops/"> WP 4 Ways to loop </a><br/>
